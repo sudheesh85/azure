@@ -29,5 +29,7 @@
         "env.bak{,/**}",
         "venv.bak{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f875c558-ca57-4d55-bb00-ee5f6088653f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/azureapptest",
+    "appService.deploySubpath": "."
 }
